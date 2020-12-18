@@ -23,7 +23,7 @@ body {
   background: #0835b9;
 }
 .red {
-  /* opacity: 0; */
+  opacity: 0;
   transition: all 1s ease-out;
   background: #db0836;
 }
